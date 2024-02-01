@@ -10,7 +10,7 @@ II
 verse-2.txt
 
 Ref. 
-chorus-2.txt
+chorus-1.txt
 
 III 
 verse-2.txt

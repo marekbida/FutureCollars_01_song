@@ -4,10 +4,7 @@ I
 verse-1.txt
  
 Ref. 
-Programuję w .NETcie już trzecie stulecie, bo kto się w PeHaPie połapie? 
-I zmierzam do celu z użyciem SQLu pod Microsoft Windows Vista. 
-A kiedy mi smutno, statyczny konstruktor utworzę w edytorze. 
-Bo wewnątrz mej głowy mam świat obiektowy ja smutny programista. 
+chorus-1.txt 
 
 II 
 Za oknem ptaki śpiewają, i tyle jest piękna na świecie, 

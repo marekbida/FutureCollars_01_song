@@ -10,13 +10,7 @@ II
 verse-2.txt
 
 Ref. 
-Programuję w .NETcie już trzecie stulecie, bo kto się w PeHaPie połapie? 
-I zmierzam do celu z użyciem SQLu pod Microsoft Windows Vista. 
-A kiedy mi smutno, statyczny konstruktor utworzę w edytorze. 
-Bo wewnątrz mej głowy mam świat obiektowy ja smutny programista. 
+chorus-2.txt
 
 III 
-Gdy widzę szczęśliwych roboli, pijanych w cztery litery 
-Wiem wtedy, że wybrałem, błędną ścieżkę kariery. 
-Też chcę być na budowie, tam pić mi nikt nie zabroni, 
-Chcę tyle co oni pracować, chcę tyle zarabiać co oni. 
+verse-2.txt
